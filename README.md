@@ -13,3 +13,5 @@ Leveraged Power BI’s advanced features including DAX calculations, interactive
 -Interactive Filters and Slicers
 **Outcome**
 Delivered an insightful and interactive dashboard that enabled stakeholders to uncover top-performing products, identify shifts in customer purchasing patterns and recognize new revenue growth opportunities through compelling and easy-to-understand visual representations.
+
+Project Link : https://in.docworkspace.com/d/sIGyv-rqwAs6V58cG?sa=601.1037
