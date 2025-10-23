@@ -1,15 +1,15 @@
-# Skillovilla-Projects
-
 **Skillovilla- ShopNest Store Power BI Capstone: (2025)**
-
--**Skills**: Power BI, data visualization, DAX, Dashboard design, Business analysis, Filters and Slicers.
--**Task**: Developed a comprehensive dashboard to analyze retail data of ShopNest Store, including sales performance, product categories, delayed orders, payment status, product ratings and seasonal sales patterns.
--**Action**: Utilized Power BI capabilities such as DAX formulas, slicers and filtering options to create interactive and detailed visualizations, enabling in-depth exploration of the data.
--**Result**: Delivered a dynamic dashboard that provided actionable business insights, highlighting top-performing products, customer behavior trends and revenue opportunities through clear and engaging visuals.
-
-**Skillovilla-Capstone Project - Python (2025)**
-
--**Skills**: Python Pandas, NumPy, Data Cleaning, Data Transformation and CSV handling.
--**Task**: Responsible for managing complex employee and project datasets, addressing missing data issues and applying organizational business rules to determine bonuses and promotions.
--**Action**: Leveraged Pandas and NumPy libraries to perform comprehensive data cleaning by inputting missing values using rolling averages, transformed and split columns, merged multiple Data Frames, applied conditional logic to calculate bonus and promotions and generated filtered reports exported as CSV files.
--**Result**: Developed an automated workflow that streamlined data processing, accurately applied bonus and promotion criteria and produced actionable reports, enhancing efficiency and decision-making.
+This project focuses on delivering end-to-end analysis of retail business performance for ShopNest Store using Microsoft Power BI. The main objective was to design a comprehensive analytical dashboard that empowers business stakeholders with actionable insights from sales, product performance, customer behavioral patterns and key operational metrics.
+**Task** 
+Created an all-encompassing Power BI dashboard to provide deep insights into ShopNest Store’s retail operations, covering key areas such as sales trends, product category performance, order fulfillment delays, payment processing status, customer product reviews and patterns across different sales seasons.
+**Action** 
+Leveraged Power BI’s advanced features including DAX calculations, interactive slicers and dynamic filtering capabilities to build a responsive and detailed dashboard that facilitates comprehensive data exploration and analysis.
+**Key Skills Demonstrated**
+-Power BI
+-Data Visualization
+-DAX (Data Analysis Expressions)
+-Dashboard Design
+-Business Analysis
+-Interactive Filters and Slicers
+**Outcome**
+Delivered an insightful and interactive dashboard that enabled stakeholders to uncover top-performing products, identify shifts in customer purchasing patterns and recognize new revenue growth opportunities through compelling and easy-to-understand visual representations.
